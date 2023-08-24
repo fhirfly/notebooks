@@ -18,6 +18,7 @@ Clinical Decision Support (CDS): Understand the systems that assist in clinical 
 
 - FHIR: Dive deep into Fast Healthcare Interoperability Resources, which is a standard for health care data exchange.
 - GPT-4: Explore the capabilities of GPT-4, OpenAI's state-of-the-art language model.
+- Embeddings + Vector Search
 - Llama2: Get to know Llama2, yet another fascinating model in the world of AI.
 - BERT & Transformers: Understand the world of BERT and Transformer models which have revolutionized the NLP domain.
 - Hugging Face: Explore the tools and libraries provided by Hugging Face, a leading company in the NLP domain.
